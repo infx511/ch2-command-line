@@ -13,6 +13,6 @@ To complete the exercise, follow the below instructions:
     2. _Append_ the text `"script executed"` to the end of a file on the Desktop called `counter.txt`
     3.  Use the `wc` (**w**ord **c**ount) command to display the number of lines in the `counter.txt` file.
 
-4. Make the `count.sh` script executable (`chmod +x note.sh`)
+4. Make the `count.sh` script executable (`chmod +x count.sh`)
 
-5. Execute the `count.sh` scrtip (`./count.sh`)
+5. Execute the `count.sh` script (`./count.sh`)
